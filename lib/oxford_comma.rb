@@ -1,4 +1,4 @@
-require "pry"
+
 
 def oxford_comma(array)
   if array.length == 1 
@@ -8,8 +8,7 @@ def oxford_comma(array)
     else 
     array[-1] = "and " + array[-]
     array.join(", ") 
-  
-end
+  end
 end   
   
   

@@ -1,3 +1,9 @@
-def oxford_comma(array)
+require "pry"
 
+def oxford_comma(array)
+ if array 
+   
+  
+  
 end
+
